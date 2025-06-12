@@ -383,6 +383,7 @@ nav a:hover::before {
 
 .first-content .fb-btn {
 	display: inline-block;
+	padding: 8px 15px;
 }
 
 .first-content .fb-btn a {
